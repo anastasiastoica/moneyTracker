@@ -10,7 +10,7 @@ body {
 
 .navbar-brand {
   --bs-navbar-brand-color: black;
-  --bs-navbar-brand-font-size: 1.6rem;
+  --bs-navbar-brand-font-size: 2rem;
   --bs-navbar-brand-font-weight: 900;
 }
 
@@ -27,27 +27,24 @@ body {
 h1 {
   padding: 10px 70px 10px 12px;
   font-family: Arial;
-  font-weight: 600;
+  font-weight: 500;
   color: black;
 }
 
-button {
-  color: #368AC6;
-  border: 30px;
-  border-radius: 50px;
-  background-color: #D8EBF8;
-  /* padding: 10px 60px 8px 10px; */
-  margin-left: 10px;
+.btn.btn-primary {
+  --bs-btn-color: #0A4CE6;
+  --bs-btn-bg: #E1ECFD;
+  --bs-btn-border-color: #E1ECFD;
+  --bs-btn-hover-color: #E1ECFD;
+  --bs-btn-hover-bg:#0A4CE6;
+  --bs-btn-border-radius: 0.6rem;
+  margin: 10px;
+
 }
 
 h2{
-  font-size: 2em;
+  font-size: 14px;
   padding: 20px 20px 80px 10px;
-
-  
+  color: #9C9C9C;
 }
 
-ul {
-  font-size: 30px;
-  
-}
