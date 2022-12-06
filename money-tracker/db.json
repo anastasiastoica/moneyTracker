@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "createdAt": 1662242155446,
+      "id": "=r6WdV7U"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1663258492803,
+      "id": "U_3Fd7f"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "picture": "https://p1.akcdn.net/full/812625993.microsoft-surface-laptop-4-5bt-00069.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Inel",
+      "picture": "https://p1.akcdn.net/full/812625993.microsoft-surface-laptop-4-5bt-00069.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Masina",
+      "picture": "https://p1.akcdn.net/full/812625993.microsoft-surface-laptop-4-5bt-00069.jpg"
+    }
+  ],
+  "transaction": [
+    {
+      "sum": 60,
+      "date": "2022-11-23",
+      "note": "hey",
+      "category": 4,
+      "createdAt": 1667921632811,
+      "id": 1
+    },
+    {
+      "sum": 79.5,
+      "date": "2022-11-10",
+      "note": "from the kids",
+      "category": 6,
+      "createdAt": 1667921757740,
+      "id": 2
+    },
+    {
+      "sum": 40,
+      "date": "2022-11-10",
+      "note": "efknfd ejfn oienfownq eofmomdowqo3dmo donmoqfq",
+      "category": 7,
+      "createdAt": 1667925673959,
+      "id": 3
+    },
+    {
+      "sum": 50,
+      "date": "2022-11-16",
+      "note": "this is a note",
+      "category": 2,
+      "createdAt": 1667928472289,
+      "id": 4
+    }
+  ],
+  "messages": [
+    {
+      "message": "gmlv",
+      "createdAt": 1663057752218,
+      "id": 1
+    },
+    {
+      "message": "edmfc",
+      "createdAt": 1663082525540,
+      "id": 2
+    },
+    {
+      "message": "lets send a message",
+      "createdAt": 1663082551098,
+      "id": 3
+    },
+    {
+      "message": "this is a message",
+      "createdAt": 1663082592900,
+      "id": 4
+    }
+  ],
+  "flights": [
+    {
+      "departure": "arad",
+      "destination": "tm",
+      "date": "2022-09-14",
+      "createdAt": 1663082355691,
+      "id": 1
+    },
+    {
+      "departure": "aradefhn",
+      "destination": "c",
+      "date": "2022-09-14",
+      "createdAt": 1663082369830,
+      "id": 2
+    }
+  ],
+  "transaction_type": [
+    {
+      "id": 1,
+      "name": "Salary",
+      "icon": "/imgs/money-bag.png"
+    },
+    {
+      "id": 2,
+      "name": "Vacation",
+      "icon": "/imgs/sunbed.png"
+    },
+    {
+      "id": 3,
+      "name": "Loan",
+      "icon": "/imgs/personal.png"
+    },
+    {
+      "id": 4,
+      "name": "Extra income",
+      "icon": "/imgs/profits.png"
+    },
+    {
+      "id": 5,
+      "name": "Insurance",
+      "icon": "/imgs/health-insurance.png"
+    },
+    {
+      "id": 6,
+      "name": "Parental leave",
+      "icon": "/imgs/diaper.png"
+    },
+    {
+      "id": 7,
+      "name": "Business",
+      "icon": "/imgs/briefcase.png"
+    },
+    {
+      "id": 8,
+      "name": "Other",
+      "icon": "/imgs/more.png"
+    }
+  ]
+}
